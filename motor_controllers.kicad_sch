@@ -1848,6 +1848,11 @@
           (reference "#PWR0136") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "#PWR0136") (unit 1)
+        )
+      )
     )
   )
 
@@ -1870,6 +1875,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "#PWR0138") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "#PWR0138") (unit 1)
         )
       )
@@ -1898,6 +1908,11 @@
           (reference "#PWR0145") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "#PWR0145") (unit 1)
+        )
+      )
     )
   )
 
@@ -1923,6 +1938,11 @@
           (reference "#PWR0137") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "#PWR0137") (unit 1)
+        )
+      )
     )
   )
 
@@ -1945,6 +1965,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "#PWR0144") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "#PWR0144") (unit 1)
         )
       )
@@ -1977,6 +2002,11 @@
           (reference "R27") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "R38") (unit 1)
+        )
+      )
     )
   )
 
@@ -1999,6 +2029,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "#PWR0131") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "#PWR0131") (unit 1)
         )
       )
@@ -2031,6 +2066,11 @@
           (reference "R23") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "R34") (unit 1)
+        )
+      )
     )
   )
 
@@ -2053,6 +2093,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "#PWR0133") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "#PWR0133") (unit 1)
         )
       )
@@ -2124,6 +2169,11 @@
           (reference "IC4") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "IC4") (unit 1)
+        )
+      )
     )
   )
 
@@ -2147,6 +2197,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "C38") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "C38") (unit 1)
         )
       )
@@ -2175,6 +2230,11 @@
           (reference "#PWR0150") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "#PWR0150") (unit 1)
+        )
+      )
     )
   )
 
@@ -2198,6 +2258,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "C33") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "C33") (unit 1)
         )
       )
@@ -2269,6 +2334,11 @@
           (reference "IC3") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "IC3") (unit 1)
+        )
+      )
     )
   )
 
@@ -2294,6 +2364,11 @@
           (reference "#PWR03") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "#PWR03") (unit 1)
+        )
+      )
     )
   )
 
@@ -2316,6 +2391,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "#PWR0142") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "#PWR0142") (unit 1)
         )
       )
@@ -2345,6 +2425,11 @@
           (reference "C37") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "C37") (unit 1)
+        )
+      )
     )
   )
 
@@ -2367,6 +2452,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "#PWR0146") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "#PWR0146") (unit 1)
         )
       )
@@ -2417,6 +2507,11 @@
           (reference "IC5") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "IC5") (unit 1)
+        )
+      )
     )
   )
 
@@ -2443,6 +2538,11 @@
           (reference "C34") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "C34") (unit 1)
+        )
+      )
     )
   )
 
@@ -2465,6 +2565,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "#PWR0152") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "#PWR0152") (unit 1)
         )
       )
@@ -2494,6 +2599,11 @@
           (reference "R22") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "R22") (unit 1)
+        )
+      )
     )
   )
 
@@ -2517,6 +2627,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "C48") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "C48") (unit 1)
         )
       )
@@ -2545,6 +2660,11 @@
           (reference "#PWR0151") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "#PWR0151") (unit 1)
+        )
+      )
     )
   )
 
@@ -2568,6 +2688,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "C39") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "C39") (unit 1)
         )
       )
@@ -2600,6 +2725,11 @@
           (reference "R24") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "R35") (unit 1)
+        )
+      )
     )
   )
 
@@ -2623,6 +2753,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "C35") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "C35") (unit 1)
         )
       )
@@ -2652,6 +2787,11 @@
           (reference "C31") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "C31") (unit 1)
+        )
+      )
     )
   )
 
@@ -2675,6 +2815,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "C41") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "C41") (unit 1)
         )
       )
@@ -2703,6 +2848,11 @@
           (reference "#PWR0130") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "#PWR0130") (unit 1)
+        )
+      )
     )
   )
 
@@ -2728,6 +2878,11 @@
           (reference "#PWR0149") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "#PWR0149") (unit 1)
+        )
+      )
     )
   )
 
@@ -2737,7 +2892,7 @@
     (property "Reference" "R21" (at 245.11 87.63 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "27k" (at 245.11 90.17 0)
+    (property "Value" "150k" (at 245.11 90.17 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 244.348 88.9 90)
@@ -2751,6 +2906,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "R21") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "R21") (unit 1)
         )
       )
@@ -2776,6 +2936,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "#PWR0141") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "#PWR0141") (unit 1)
         )
       )
@@ -2805,6 +2970,11 @@
           (reference "C46") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "C46") (unit 1)
+        )
+      )
     )
   )
 
@@ -2827,6 +2997,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "#PWR0140") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "#PWR0140") (unit 1)
         )
       )
@@ -2857,6 +3032,11 @@
           (reference "D2") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "D2") (unit 1)
+        )
+      )
     )
   )
 
@@ -2880,6 +3060,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "C40") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "C40") (unit 1)
         )
       )
@@ -2909,6 +3094,11 @@
           (reference "C32") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "C32") (unit 1)
+        )
+      )
     )
   )
 
@@ -2934,6 +3124,11 @@
           (reference "#PWR0135") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "#PWR0135") (unit 1)
+        )
+      )
     )
   )
 
@@ -2956,6 +3151,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "#PWR0139") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "#PWR0139") (unit 1)
         )
       )
@@ -2986,6 +3186,11 @@
           (reference "D1") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "D1") (unit 1)
+        )
+      )
     )
   )
 
@@ -3012,6 +3217,11 @@
           (reference "C30") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "C30") (unit 1)
+        )
+      )
     )
   )
 
@@ -3034,6 +3244,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "#PWR04") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "#PWR04") (unit 1)
         )
       )
@@ -3066,6 +3281,11 @@
           (reference "R25") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "R36") (unit 1)
+        )
+      )
     )
   )
 
@@ -3089,6 +3309,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "C36") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "C36") (unit 1)
         )
       )
@@ -3118,6 +3343,11 @@
           (reference "C47") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "C47") (unit 1)
+        )
+      )
     )
   )
 
@@ -3143,6 +3373,11 @@
           (reference "#PWR06") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "#PWR06") (unit 1)
+        )
+      )
     )
   )
 
@@ -3165,6 +3400,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "#PWR0148") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "#PWR0148") (unit 1)
         )
       )
@@ -3194,6 +3434,11 @@
           (reference "R20") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "R20") (unit 1)
+        )
+      )
     )
   )
 
@@ -3216,6 +3461,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "#PWR0143") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "#PWR0143") (unit 1)
         )
       )
@@ -3244,6 +3494,11 @@
           (reference "#PWR0134") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "#PWR0134") (unit 1)
+        )
+      )
     )
   )
 
@@ -3253,7 +3508,7 @@
     (property "Reference" "R19" (at 115.57 87.63 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "27k" (at 115.57 90.17 0)
+    (property "Value" "150k" (at 115.57 90.17 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 114.808 88.9 90)
@@ -3267,6 +3522,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "R19") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "R19") (unit 1)
         )
       )
@@ -3299,6 +3559,11 @@
           (reference "R26") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "R37") (unit 1)
+        )
+      )
     )
   )
 
@@ -3321,6 +3586,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "#PWR0147") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "#PWR0147") (unit 1)
         )
       )
@@ -3350,6 +3620,11 @@
           (reference "C45") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "C45") (unit 1)
+        )
+      )
     )
   )
 
@@ -3373,6 +3648,11 @@
     (instances
       (project "rpiboard_minirys"
         (path "/83ec67aa-411e-440d-8530-858fb57a6552/5ea3db34-fb98-4d93-9a2f-b6923f5ab769"
+          (reference "C42") (unit 1)
+        )
+      )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
           (reference "C42") (unit 1)
         )
       )
@@ -3401,6 +3681,15 @@
           (reference "#PWR0132") (unit 1)
         )
       )
+      (project "motor_controllers"
+        (path "/8a6f3a5a-5669-4c60-b532-80c9d91b3073"
+          (reference "#PWR0132") (unit 1)
+        )
+      )
     )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
   )
 )
